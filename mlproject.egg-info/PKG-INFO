@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: mlproject
+Version: 0.0.1
+Author: Ammar
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: requires-dist
